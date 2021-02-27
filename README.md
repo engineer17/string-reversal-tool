@@ -1,4 +1,4 @@
-# string-reversal-tool
+# String Reversal Tool
 Tool that reverses strings.
 
 # Download:
